@@ -1,0 +1,29 @@
+{
+  "name": "angular-postbus",
+  "version": "0.0.1",
+  "authors": [
+    "electblake <electblake@gmail.com>"
+  ],
+  "description": "postal.js $bus for angular 1.2+",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "postaljs",
+    "postal",
+    "event-bus",
+    "events"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "postal.js": "~0.10.3"
+  }
+}
